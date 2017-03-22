@@ -1,2 +1,6 @@
 target/*
 node_modes/*
+dependency-reduced-pom.xml
+nbactions.xml
+nbproject/
+
